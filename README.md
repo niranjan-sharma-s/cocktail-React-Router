@@ -13,3 +13,7 @@
 ```sh
 npm install react-router-dom@6
 ```
+
+
+#### Hosted 
+https://cocktails-final.netlify.app/
